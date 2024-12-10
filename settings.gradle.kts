@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "disain"
 include(":app")
- 
+include(":mainactivity2")
